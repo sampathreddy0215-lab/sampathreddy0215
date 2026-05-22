@@ -16,7 +16,10 @@ Experienced in enterprise networking, cloud networking, security, and network au
 
 ### Certifications
 - CCNP Enterprise
-- Cisco Certified Specialist – Enterprise Advanced Infrastructure 
+- Cisco Certified Specialist – Enterprise Advanced Infrastructure
+- Cisco Certified Specialist – Enterprise Core (ENCOR)
+- Connect and Protect: Networks and Network Security – Google/Coursera
+- CCNA
 
 ### Current Focus
 - Network Automation
