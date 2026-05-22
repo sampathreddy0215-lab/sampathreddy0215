@@ -15,11 +15,8 @@ Experienced in enterprise networking, cloud networking, security, and network au
 - Zero Trust
 
 ### Certifications
--CCNP Enterprise.
--Cisco Certified Specialist – Enterprise Advanced Infrastructure.
--Cisco Certified Specialist – Enterprise Core (ENCOR).
--Connect and Protect: Networks and Network Security – Google/Coursera.
--CCNA.
+- CCNP Enterprise
+- Cisco Certified Specialist – Enterprise Advanced Infrastructure 
 
 ### Current Focus
 - Network Automation
