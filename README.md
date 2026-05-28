@@ -26,3 +26,22 @@ Experienced in enterprise networking, cloud networking, security, and network au
 - Cloud Networking
 - SASE & Zero Trust
 - AI-Driven Network Observability
+
+### Technologies & Tools
+
+- Cisco
+- Palo Alto
+- Fortinet
+- AWS
+- Azure
+- GCP
+- Python
+- Ansible
+- Terraform
+- Zscaler
+- SD-WAN
+- BGP
+- OSPF
+- MPLS
+- SolarWinds
+- Splunk
